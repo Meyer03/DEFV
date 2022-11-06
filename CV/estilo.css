@@ -1,0 +1,42 @@
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,48,121,1) 35%, rgba(0,212,255,1) 100%);
+    font-family: Verdana;
+    color:aliceblue;
+    }
+    
+    p {
+      text-align:justify;
+      font-size: 40px;
+    }
+    
+    h1 {
+      text-align: center;
+      font-size: 100px;
+    }
+  
+    .logo {
+      text-align: left;
+      font-size: 58px;
+    }
+    
+    .clase_subtitulo {
+      text-align: center;
+      font-size: 75px;
+    }
+  
+  
+    .name {
+     width: 300px;
+     height: 300px;
+    }
+    .image_profile {
+      width: 250px;
+     height: 250px;
+    }
+  
+    .texto {
+      font-size: 40px;
+    }
+  
+    
